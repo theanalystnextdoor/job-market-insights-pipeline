@@ -13,5 +13,4 @@ This project scrapes job listings from multiple websites, stores them in a MySQL
 - `sql/`: SQL schema setup
 - `etl/`: Data processing and loading
 - `dashboard/`: Power BI reports
-# job-market-insights-pipeline
- Scrape job listings, store in MySQL, and visualize with Power BI.
+
